@@ -2,7 +2,7 @@
 
 **Software Engineer @ University of Guelph** *I build production-ready AI agents and cloud infrastructure.*
 
-[Personal Site](https://hamzaparacha.me) | [LinkedIn](https://www.linkedin.com/in/hamza-paracha-03a091266/) | [Email](mailto:hparacha @uoguelph.ca)
+[Personal Site](https://hamzaparacha.me) | [LinkedIn](https://www.linkedin.com/in/hamza-paracha-03a091266/) | [Email](mailto:hparacha@uoguelph.ca)
 
 ---
 
