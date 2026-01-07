@@ -18,6 +18,12 @@ A complex multi-agent environment where intelligent agents collaborate via A2A (
 * **Stack:** GCP, BigQuery, Apache Beam, Cloud SQL (pgvector), Gemini.
 * **Key Feature:** Full data engineering pipeline processing unstructured data into searchable semantic insights.
 
+#### [ML-Powered DevOps Intelligence Platform](https://github.com/DevDonzo/ai-devops-agent-fresh)
+A multi-cloud dependency management system using LLMs and ML for intelligent, risk-aware package updates.
+* **Stack:** AWS Bedrock, Azure OpenAI, Google Gemini, SageMaker, S3, Azure Blob Storage, FAISS semantic search.
+* **Key Features:** Multi-provider LLM abstraction (Bedrock/Azure OpenAI/Gemini), ML-powered risk classification, Hive-partitioned data lakes, Azure AD authentication, SageMaker inference endpoints.
+* **Certifications Demonstrated:** AWS ML Engineer Associate (MLA-C01), Azure DP-700.
+
 #### [Secure E2E Encrypted Chat](https://github.com/DevDonzo/EncryptedChat)
 A Python-based multi-client communication system featuring AES encryption in CBC mode.
 * **Stack:** Python, PyCryptodome, Socket Programming.
