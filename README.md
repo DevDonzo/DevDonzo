@@ -8,6 +8,11 @@
 
 ### Featured Projects
 
+#### [The Sentinel: Autonomous Security Orchestrator](https://github.com/DevDonzo/the-sentinel)
+A multi-agent security system that autonomously identifies vulnerabilities, patches code, and manages the PR lifecycle.
+* **Stack:** TypeScript, Node.js, Snyk, Octokit.
+* **Key Feature:** "Council of Agents" architecture ensuring self-healing security with a mandatory "Rules of Engagement" constitution.
+
 #### [Autonomous AI Real Estate Agent](https://github.com/DevDonzo/autonomous-real-estate-agent)
 An end-to-end autonomous agent built on **AWS Strands** that plans, reasons, and creates social media content.
 * **Stack:** AWS Bedrock, DynamoDB, MCP Servers, Twitter API.
@@ -18,16 +23,17 @@ A complex multi-agent environment where intelligent agents collaborate via A2A (
 * **Stack:** GCP, BigQuery, Apache Beam, Cloud SQL (pgvector), Gemini.
 * **Key Feature:** Full data engineering pipeline processing unstructured data into searchable semantic insights.
 
+---
+
+### Other Noteworthy Projects
+
 #### [ML-Powered DevOps Intelligence Platform](https://github.com/DevDonzo/ai-devops-agent-fresh)
 A multi-cloud dependency management system using LLMs and ML for intelligent, risk-aware package updates.
-* **Stack:** AWS Bedrock, Azure OpenAI, Google Gemini, SageMaker, S3, Azure Blob Storage, FAISS semantic search.
-* **Key Features:** Multi-provider LLM abstraction (Bedrock/Azure OpenAI/Gemini), ML-powered risk classification, Hive-partitioned data lakes, Azure AD authentication, SageMaker inference endpoints.
-* **Certifications Demonstrated:** AWS ML Engineer Associate (MLA-C01), Azure DP-700.
+* **Stack:** AWS Bedrock, Azure OpenAI, Google Gemini, SageMaker.
 
 #### [Secure E2E Encrypted Chat](https://github.com/DevDonzo/EncryptedChat)
 A Python-based multi-client communication system featuring AES encryption in CBC mode.
 * **Stack:** Python, PyCryptodome, Socket Programming.
-* **Key Feature:** Concurrent thread handling for secure, real-time message exchange.
 
 ---
 
