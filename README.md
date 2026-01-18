@@ -8,7 +8,7 @@
 
 ### Featured Projects
 
-#### [The Sentinel: Autonomous Security Orchestrator](https://github.com/DevDonzo/the-sentinel)
+#### [Warden: Autonomous Security Orchestrator](https://github.com/DevDonzo/the-sentinel)
 A multi-agent security system that autonomously identifies vulnerabilities, patches code, and manages the PR lifecycle.
 * **Stack:** TypeScript, Node.js, Snyk, Octokit.
 * **Key Feature:** "Council of Agents" architecture ensuring self-healing security with a mandatory "Rules of Engagement" constitution.
