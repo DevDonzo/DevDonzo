@@ -69,6 +69,8 @@ AWS • Azure • GCP • Multi-Agent Systems • Data Engineering
 
 ### 🛡️ [Warden: Autonomous Security Orchestrator](https://github.com/DevDonzo/the-sentinel)
 
+[![Warden CLI](https://img.shields.io/badge/Warden_CLI-warden--cli.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://warden-cli.vercel.app)
+
 A multi-agent security system that autonomously identifies vulnerabilities, patches code, and manages the PR lifecycle.
 
 **Stack:** `TypeScript` `Node.js` `Snyk` `Octokit`
