@@ -90,6 +90,8 @@ const hamza = {
 ![Status](https://img.shields.io/badge/Status-Production-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
+*Built at a hackathon*
+
 </div>
 
 <p align="center">
