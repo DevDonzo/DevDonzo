@@ -54,9 +54,8 @@
 
 ```typescript
 const hamza = {
-  pronouns: "he/him",
   location: "Ontario, Canada 🇨🇦",
-  education: "Computer Science @ University of Guelph",
+  education: "Software Engineering @ University of Guelph",
   currentFocus: ["AI Agents", "Multi-Cloud Architecture", "Security Automation"],
   expertise: ["AWS", "Azure", "GCP", "TypeScript", "Python"],
   interests: ["Multi-Agent Systems", "RAG Pipelines", "Penetration Testing"],
