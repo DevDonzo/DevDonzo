@@ -66,64 +66,17 @@ const hamza = {
 
 ---
 
-## 📊 GitHub Stats
+## 🔧 Technical Skills
 
-<div align="center">
+**Cloud Platforms:** AWS • Azure • GCP • Docker • Terraform
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevDonzo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+**Languages:** Python • TypeScript • JavaScript • SQL
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DevDonzo&theme=tokyonight&hide_border=true)
+**AI/ML:** AWS Bedrock • Azure OpenAI • Google Gemini • LangChain • Vector Databases
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevDonzo&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
+**Data:** PostgreSQL • BigQuery • DynamoDB • Apache Beam • Redis
 
-</div>
-
----
-
-## 🔧 Skills & Tools
-
-<div align="center">
-
-### 🚀 Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
-
-### 🧠 AI & Data Engineering
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![Apache Beam](https://img.shields.io/badge/Apache_Beam-E97627?style=for-the-badge&logo=apache&logoColor=white)
-
-### 📊 Databases & Data
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🖥️ Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-### 🛠️ DevOps & Tools
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white)
-
-</div>
+**Frameworks:** Node.js • React • FastAPI • Express.js
 
 ---
 
@@ -256,26 +209,6 @@ I'm always interested in collaborating on innovative AI projects, discussing clo
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_My_Site-000000?style=for-the-badge)](https://hamzaparacha.me)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hamza-paracha-03a091266/)
 [![Email](https://img.shields.io/badge/📧_Email-Get_In_Touch-D14836?style=for-the-badge&logo=gmail)](mailto:hparacha@uoguelph.ca)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DevDonzo&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DevDonzo&theme=tokyo-night&hide_border=true)
 
 </div>
 
