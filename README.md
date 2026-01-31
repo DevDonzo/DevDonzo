@@ -4,7 +4,7 @@
 
 **I build AI agents that work autonomously—so you don't have to.**
 
-Software Engineering @ University of Guelph | AWS & Azure Certified | Seeking Co-op
+Software Engineering @ University of Guelph | AWS & Azure Certified
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hamzaparacha.me-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://hamzaparacha.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hamza-paracha-03a091266/)
@@ -46,6 +46,10 @@ Not toy projects. Real systems running in production with Docker, comprehensive 
 ## Featured Work
 
 ### [DigitalFTE](https://github.com/DevDonzo/DigitalFTE) — Your Personal AI Employee
+
+![Python](https://img.shields.io/badge/Python-3.13+-3776AB?style=flat-square&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Ready-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Production-success?style=flat-square)
 
 > *Built at a hackathon. Now production-ready.*
 
@@ -94,7 +98,7 @@ An end-to-end autonomous agent on AWS Bedrock that plans, reasons, and executes 
 
 ---
 
-### [AgentVerse](https://github.com/DevDonzo/agentverse-dataengineer)
+### [AgentVerse](https://github.com/DevDonzo/agentverse-dataengineer) — Google AgentVerse Event
 
 Multi-agent environment where AI agents collaborate via A2A (Agent-to-Agent) communication for data engineering. Full serverless pipeline on GCP processing unstructured data into semantic search with pgvector.
 
@@ -114,7 +118,7 @@ Multi-agent environment where AI agents collaborate via A2A (Agent-to-Agent) com
 
 ## Let's Talk
 
-I'm looking for **co-op opportunities** where I can build intelligent systems at scale. If you're working on AI agents, cloud infrastructure, or security automation—I'd love to chat.
+If you're working on AI agents, cloud infrastructure, or security automation—I'd love to chat.
 
 <div align="center">
 
