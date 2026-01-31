@@ -2,7 +2,7 @@
 
 # Hamza Paracha
 
-**I build AI agents that work autonomously—so you don't have to.**
+**I build intelligent systems that work autonomously—so you don't have to.**
 
 Software Engineering @ University of Guelph | AWS & Azure Certified
 
@@ -16,7 +16,7 @@ Software Engineering @ University of Guelph | AWS & Azure Certified
 
 ## What I Do
 
-I design and build **production-grade autonomous AI systems**—multi-agent architectures that monitor, reason, and act without human intervention. My work sits at the intersection of **cloud infrastructure**, **AI/ML**, and **security automation**.
+I design and build **production-grade software**—from autonomous AI agents to data pipelines to full-stack applications. My work spans **cloud infrastructure**, **AI/ML**, **data engineering**, and **security automation** across AWS, Azure, and GCP.
 
 Not toy projects. Real systems running in production with Docker, comprehensive test suites, and audit trails.
 
@@ -118,7 +118,7 @@ Multi-agent environment where AI agents collaborate via A2A (Agent-to-Agent) com
 
 ## Let's Talk
 
-If you're working on AI agents, cloud infrastructure, or security automation—I'd love to chat.
+If you're working on something interesting in software, AI/ML, data, or cloud—I'd love to chat.
 
 <div align="center">
 
