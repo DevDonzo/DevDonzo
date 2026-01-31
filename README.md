@@ -107,9 +107,13 @@ Multi-agent environment where AI agents collaborate via A2A (Agent-to-Agent) com
 ## Technical Stack
 
 **Cloud:** AWS • Azure • GCP • Docker • Terraform
+
 **Languages:** Python • TypeScript • SQL
+
 **AI/ML:** AWS Bedrock • Azure OpenAI • Gemini • LangChain • RAG Pipelines
+
 **Data:** PostgreSQL • BigQuery • DynamoDB • Redis • Apache Beam
+
 **Frameworks:** Node.js • FastAPI • React • Express
 
 ---
