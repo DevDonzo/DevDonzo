@@ -16,7 +16,7 @@ Software Engineering @ University of Guelph | AWS & Azure Certified
 
 ## What I Do
 
-I design and build **production-grade software**—from autonomous AI agents to data pipelines to full-stack applications. My work spans **cloud infrastructure**, **AI/ML**, **data engineering**, and **security automation** across AWS, Azure, and GCP.
+I am a passionate software engineering student dedicated to creating innovative solutions. My projects range from developing AI agents and constructing data pipelines to building full-stack applications. I have a strong interest in cloud infrastructure, AI/ML, data engineering, and security automation, with hands-on experience across AWS, Azure, and GCP.
 
 ---
 
