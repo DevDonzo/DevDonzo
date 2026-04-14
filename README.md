@@ -1,11 +1,9 @@
 <div align="center">
-  <img src="./zed-logo-wordmark-pure-white-fff.png" alt="Zed" width="260" />
-
   # Hamza Paracha
 
   Software engineer focused on systems, security, and applied AI.
 
-  I am University Lead for Zed Industries, and Warden has crossed 1,000+ downloads on npm.
+  I am a campus ambassador and University Lead for Zed Industries, and Warden has crossed 1,000+ downloads on npm.
 
   [Resume](https://github.com/DevDonzo/personal-site/raw/main/public/HamzaPResume.pdf) •
   [Portfolio PDF](https://github.com/DevDonzo/personal-site/raw/main/Hamza_Paracha_Portfolio_FuturePath2026.pdf) •
@@ -23,7 +21,7 @@ I care most about tools that reduce friction for builders, keep humans in the lo
 
 ## Current Work
 
-- **University Lead, Zed Industries** - leading campus engagement, workshops, and technical conversations around modern developer tooling
+- <img src="./zed-logo-wordmark-pure-white-fff.png" alt="Zed" width="72" /> **University Lead / Campus Ambassador, Zed Industries** - leading campus engagement, workshops, and technical conversations around modern developer tooling
 - **Co-Captain, AWS Cloud Club** - supporting community programming and cloud-focused learning
 - **AI System Engineer Intern, Innovance.ai** - working on AI systems and applied infrastructure
 
