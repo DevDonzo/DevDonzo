@@ -5,9 +5,8 @@
 
   I am a campus ambassador and University Lead for Zed Industries, and Warden has crossed 1,000+ downloads on npm.
 
+  [Website](https://hamzaparacha.me) •
   [Resume](https://github.com/DevDonzo/personal-site/raw/main/public/HamzaPResume.pdf) •
-  [Portfolio PDF](https://github.com/DevDonzo/personal-site/raw/main/Hamza_Paracha_Portfolio_FuturePath2026.pdf) •
-  [GitHub](https://github.com/DevDonzo) •
   [LinkedIn](https://www.linkedin.com/in/hamza-paracha-03a091266/)
 </div>
 
@@ -21,7 +20,7 @@ I care most about tools that reduce friction for builders, keep humans in the lo
 
 ## Current Work
 
-- <img src="./zed-logo-wordmark-pure-white-fff.png" alt="Zed" width="72" /> **University Lead / Campus Ambassador, Zed Industries** - leading campus engagement, workshops, and technical conversations around modern developer tooling
+- **University Lead / Campus Ambassador, Zed Industries** - leading campus engagement, workshops, and technical conversations around modern developer tooling
 - **Co-Captain, AWS Cloud Club** - supporting community programming and cloud-focused learning
 - **AI System Engineer Intern, Innovance.ai** - working on AI systems and applied infrastructure
 
@@ -51,11 +50,9 @@ I care most about tools that reduce friction for builders, keep humans in the lo
 
 If you want the longer version, start here:
 
-- [Full resume PDF](https://github.com/DevDonzo/personal-site/raw/main/public/HamzaPResume.pdf)
-- [Portfolio PDF](https://github.com/DevDonzo/personal-site/raw/main/Hamza_Paracha_Portfolio_FuturePath2026.pdf)
+- [Resume PDF](https://github.com/DevDonzo/personal-site/raw/main/public/HamzaPResume.pdf)
 
 ## Contact
 
-- [Email](mailto:hparacha@uoguelph.ca)
+- [Website](https://hamzaparacha.me)
 - [LinkedIn](https://www.linkedin.com/in/hamza-paracha-03a091266/)
-- [Zed](https://zed.dev)
