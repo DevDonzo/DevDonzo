@@ -14,4 +14,4 @@ Software engineer building AI systems, security tooling, and developer infrastru
 
 ### Links
 
-[Website](https://hamzaparacha.me) • [LinkedIn](https://www.linkedin.com/in/hamza-paracha-03a091266/) • [Resume](https://github.com/DevDonzo/personal-site/raw/main/public/HamzaPResume.pdf)
+[Website](https://hamzaparacha.me) • [LinkedIn](https://www.linkedin.com/in/hamza-paracha-03a091266/)
