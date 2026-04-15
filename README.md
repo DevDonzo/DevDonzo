@@ -3,7 +3,7 @@
 
   Software engineer focused on systems, security, and applied AI.
 
-  I am a campus ambassador and University Lead for Zed Industries, and Warden has crossed 1,000+ downloads on npm.
+  I am a Campus Ambassador & Open-source contributor for Zed Industries, and Warden has crossed 1,000+ downloads on npm.
 
   [Website](https://hamzaparacha.me) •
   [Resume](https://github.com/DevDonzo/personal-site/raw/main/public/HamzaPResume.pdf) •
