@@ -2,7 +2,7 @@
 
 Software engineer building AI systems, security tooling, and developer infrastructure.
 
-- **University Lead + Open Source Contributor @ Zed Industries**
+- **Active Contributor to @zed-industries (High-performance Rust-based editor)** | University Lead
 - **AI System Engineer Intern @ Innovance.ai**
 - **Creator of [Warden](https://github.com/DevDonzo/warden)** (1k+ npm downloads)
 
