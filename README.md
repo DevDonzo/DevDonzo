@@ -3,7 +3,7 @@
 Software engineer building AI systems, security tooling, and developer infrastructure.
 
 - **Active Contributor to @zed-industries (High-performance Rust-based editor)** | University Lead
-- **AI System Engineer @ Salesforce (Agentforce)**
+- **Software Engineer @ Salesforce (Agentforce)**
 - **Creator of [Warden](https://github.com/DevDonzo/warden)** (1k+ npm downloads)
 
 ### Built
