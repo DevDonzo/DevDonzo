@@ -1,25 +1,23 @@
 # Hamza Paracha
 
-Software engineer building AI systems, security tooling, and developer infrastructure.
+I build AI systems, security tooling, and developer infrastructure. Based in Toronto.
 
-- **Active Contributor to @zed-industries (High-performance Rust-based editor)** | University Lead
-- **Software Engineer @ innovance.ai**
-- **Creator of [Warden](https://github.com/DevDonzo/warden)** (1k+ npm downloads)
+[Website](https://hamzaparacha.me) · [LinkedIn](https://www.linkedin.com/in/hamza-paracha-03a091266/)
 
-### Built
+## Selected work
 
-- [CodeSensei](https://github.com/DevDonzo/Mac-a-thon-2026) - VS Code extension + AI reasoning engine
-- [DigitalFTE](https://github.com/DevDonzo/DigitalFTE) - terminal-first AI assistant workflow
-- [Agentverse Data Engineer](https://github.com/DevDonzo/agentverse-dataengineer) - GCP data pipeline + agent orchestration
+| Project | What it does | Built with |
+| --- | --- | --- |
+| [Warden](https://github.com/hamza-paracha/warden) | Scans dependencies, applies policy gates, and prepares reviewable security fixes with an audit trail. [npm ↗](https://www.npmjs.com/package/@devdonzo/warden) | TypeScript · GitHub Actions |
+| [CodeSensei](https://github.com/hamza-paracha/codesensei) | Connects code search, dependency graphs, and source-linked answers in a VS Code extension and web dashboard. | JavaScript · React · Vertex AI |
+| [DigitalFTE](https://github.com/hamza-paracha/DigitalFTE) | Organizes inbox triage, drafts, approvals, and briefings around a local Markdown vault. | Python · FastAPI |
+| [Tachyon](https://github.com/hamza-paracha/tachyon) | Explores large logs and traces with memory-mapped files, parallel search, and a virtualized desktop viewport. | Rust |
 
-### Certifications
+## Open source & experiments
 
-- [Claude with Amazon Bedrock](https://verify.skilljar.com/c/3uch42hmztw4)
-- [Microsoft Certified Azure Data Engineer Associate (DP-700)](https://learn.microsoft.com/en-ca/users/hamzaparacha-3492/credentials/2a13b47110f6eeb2)
-- [AWS Certified Machine Learning Engineer - Associate (MLA-C01)](https://cp.certmetrics.com/amazon/en/public/verify/credential/5f76b7f35d6c4a8db2f402d4a85304e4)
-- [AWS Certified Cloud Practitioner (CLF-C02)](https://cp.certmetrics.com/amazon/en/public/verify/credential/e6b754294f0640bd8c50c1d45d4129a7)
-- [PCAP - Certified Associate Python Programmer](https://www.credly.com/badges/e4023891-ac6a-4dd7-9273-fca0271befe8/public_url)
+- **[Zed contributions](https://github.com/zed-industries/zed/pulls?q=is%3Apr+author%3Ahamza-paracha+is%3Amerged)** — editor fixes and documentation, including proxy handling and agent UI behavior.
+- **[RateDrop](https://github.com/hamza-paracha/gdghackathon)** — a hackathon voice-agent prototype for support calls, with deterministic negotiation policy and outcome tracking.
+- **[AgentVerse data engineering](https://github.com/hamza-paracha/google-agentverse-dataengineer)** — a Google Cloud data-pipeline project from AgentVerse Toronto.
+- **[Hamza Chat](https://github.com/hamza-paracha/hamza-chatbot)** — an authenticated Azure chatbot with persistent conversations.
 
-### Links
-
-[Website](https://hamzaparacha.me) • [LinkedIn](https://www.linkedin.com/in/hamza-paracha-03a091266/)
+Most of my work uses Python, TypeScript, and cloud services across AWS, Azure, and Google Cloud. I also build developer tools in Rust.
